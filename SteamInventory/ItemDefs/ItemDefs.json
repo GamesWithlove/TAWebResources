@@ -9,8 +9,8 @@
 		"name_color":  "7D6D00",
 		"background_color":  "3C352E",
 		"promo":"owns:2368060",
-		"icon_url": "https://github.com/GamesWithlove/TA-Workfiles/edit/main/Workfiles/SteamInventory/Armors/TestingArmor/TestingArmorSmall.png",
-		"icon_url_large": "https://github.com/GamesWithlove/TA-Workfiles/blob/main/Workfiles/SteamInventory/Armors/TestingArmor/TestingArmorBig.png",
+		"icon_url": "https://gameswithlove.github.io/TAWebResources/SteamInventory/Armors/TestingArmor/TestingArmorSmall.png",
+		"icon_url_large": "https://gameswithlove.github.io/TAWebResources/SteamInventory/Armors/TestingArmor/TestingArmorBig.png",
 		"tradable": false,
 		"marketable": false
 	}
