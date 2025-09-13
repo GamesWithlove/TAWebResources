@@ -9,8 +9,8 @@
 		"name_color":  "FF5C00",
 		"background_color":  "FF5C00",
 		"promo": "manual",
-		"icon_url": "https://gameswithlove.github.io/TAWebResources/SteamInventory/Armors/TestingArmor/TestingArmorSmall.png",
-		"icon_url_large": "https://gameswithlove.github.io/TAWebResources/SteamInventory/Armors/TestingArmor/TestingArmorBig.png",
+		"icon_url": "https://gameswithlove.github.io/TAWebResources/SteamInventory/Armors/TestingArmor/HazzardArmorSmall.png",
+		"icon_url_large": "https://gameswithlove.github.io/TAWebResources/SteamInventory/Armors/TestingArmor/HazzardArmorBig.png",
 		"tradable": false,
 		"marketable": false
 	}
