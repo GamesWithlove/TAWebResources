@@ -4,13 +4,13 @@
 	{
 		"itemdefid": 1,
 		"type":  "ArmorSet",
-		"name": "Hazzard Armor",
+		"name": "Hazard Armor",
 		"description": "Granted to players that played before March 25th, 2025 as a thank you gift for their early support",
 		"name_color":  "FF5C00",
 		"background_color":  "FF5C00",
 		"promo": "manual",
-		"icon_url": "https://gameswithlove.github.io/TAWebResources/SteamInventory/Armors/TestingArmor/HazzardArmorSmall.png",
-		"icon_url_large": "https://gameswithlove.github.io/TAWebResources/SteamInventory/Armors/TestingArmor/HazzardArmorBig.png",
+		"icon_url": "https://gameswithlove.github.io/TAWebResources/SteamInventory/Armors/TestingArmor/HazardArmorSmall.png",
+		"icon_url_large": "https://gameswithlove.github.io/TAWebResources/SteamInventory/Armors/TestingArmor/HazardArmorBig.png",
 		"tradable": false,
 		"marketable": false
 	}
