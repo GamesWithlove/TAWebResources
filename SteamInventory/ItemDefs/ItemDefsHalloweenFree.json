@@ -1,0 +1,18 @@
+{
+	"appid": 1726530,
+	"items": [
+	{
+		"itemdefid": 2,
+		"type":  "Head",
+		"name": "Pumpkin",
+		"description": "Your head has been replaced with that of a powerful cosmic entity—turns out you never really needed the original.",
+		"name_color":  "FF5C00",
+		"background_color":  "FF5C00",
+		"promo": "manual",
+		"icon_url": "https://gameswithlove.github.io/TAWebResources/SteamInventory/Armors/PumpkinHead/PumpkinHeadSmall.png",
+		"icon_url_large": "https://gameswithlove.github.io/TAWebResources/SteamInventory/Armors/PumpkinHead/PumpkinHeadBig.png",
+		"tradable": false,
+		"marketable": false
+	}
+	]
+}
