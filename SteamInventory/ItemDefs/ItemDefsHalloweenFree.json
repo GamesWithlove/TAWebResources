@@ -14,7 +14,7 @@
 		"tradable": false,
 		"marketable": false,
 		"drop_start_time": "2025-10-01T01:00:00.000Z",
-		"drop_interval" : 30,
+		"drop_interval" : 5,
 		"use_drop_window" : "true",
 		"drop_window" : "1440",
 		"drop_limit" : "1"
