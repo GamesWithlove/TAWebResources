@@ -13,6 +13,22 @@
 		"icon_url_large": "https://gameswithlove.github.io/TAWebResources/SteamInventory/Armors/TestingArmor/HazardArmorBig.png",
 		"tradable": false,
 		"marketable": false
+	},
+	{
+		"appid": "1726530",
+		"itemdefid": "201",
+		"type": "Hat",
+		"display_type": "",
+		"name": "Red Hat",
+		"price": "1;VLV500",
+		"description": "Shiny Red Hat",
+		"name_color":  "DC143C",
+		"background_color":  "DC143C",
+		"icon_url": "https://gameswithlove.github.io/TAWebResources/SteamInventory/Armors/RedHat/HeadRedHatBig.png",
+		"icon_url_large": "https://gameswithlove.github.io/TAWebResources/SteamInventory/Armors/RedHat/HeadRedHatBig.png",
+		"tradable": true,
+		"marketable": true
 	}
+	
 	]
 }
