@@ -29,6 +29,21 @@
 		"tradable": true,
 		"marketable": true
 	}
+	{
+		"appid": "1726530",
+		"itemdefid": "202",
+		"type": "Chest",
+		"display_type": "",
+		"name": "Belted Beach Party Female Chest",
+		"price": "1;VLV500",
+		"description": "Genetic modifications that result in a bigger profile.",
+		"name_color":  "808080",
+		"background_color":  "808080",
+		"icon_url": "https://gameswithlove.github.io/TAWebResources/SteamInventory/Armors/BeltedBeachParty/BeltedBrachParty_Full.png",
+		"icon_url_large": "https://gameswithlove.github.io/TAWebResources/SteamInventory/Armors/BeltedBeachParty/BeltedBrachParty_Full.png",
+		"tradable": true,
+		"marketable": true
+	}
 	
 	]
 }
