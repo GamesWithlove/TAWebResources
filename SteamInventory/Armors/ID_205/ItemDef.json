@@ -1,0 +1,21 @@
+{
+	"appid": 1726530,
+	"items": [
+	{
+		"appid": "1726530",
+		"itemdefid": "205",
+		"type": "Hips",
+		"display_type": "",
+		"name": "Synthetic Hips Shorts",
+		"price": "1;VLV500",
+		"description": "Now with fancy shorts.",
+		"name_color":  "DC143C",
+		"background_color":  "DC143C",
+		"icon_url": "https://gameswithlove.github.io/TAWebResources/SteamInventory/Armors/ID_205/Image.png",
+		"icon_url_large": "https://gameswithlove.github.io/TAWebResources/SteamInventory/Armors/ID_205/Image.png",
+		"tradable": true,
+		"marketable": true
+	}
+	
+	]
+}
