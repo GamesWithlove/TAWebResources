@@ -1,0 +1,21 @@
+{
+	"appid": 1726530,
+	"items": [
+	{
+		"appid": "1726530",
+		"itemdefid": "203",
+		"type": "Chest",
+		"display_type": "",
+		"name": "Beach Party F Non Belted",
+		"price": "1;VLV500",
+		"description": "Genetic modifications that result in a bigger profile wiith no belts to hold them back.",
+		"name_color":  "DC143C",
+		"background_color":  "DC143C",
+		"icon_url": "https://gameswithlove.github.io/TAWebResources/SteamInventory/Armors/ID_203/Image.png",
+		"icon_url_large": "https://gameswithlove.github.io/TAWebResources/SteamInventory/Armors/ID_203/Image.png",
+		"tradable": true,
+		"marketable": true
+	}
+	
+	]
+}
