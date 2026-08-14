@@ -9,8 +9,8 @@
 		"name_color":  "FF5C00",
 		"background_color":  "FF5C00",
 		"promo": "manual",
-		"icon_url": "https://gameswithlove.github.io/TAWebResources/SteamInventory/Armors/TestingArmor/HazardArmorSmall.png",
-		"icon_url_large": "https://gameswithlove.github.io/TAWebResources/SteamInventory/Armors/TestingArmor/HazardArmorBig.png",
+		"icon_url": "https://gameswithlove.github.io/TAWebResources/SteamInventory/Armors/ID_1_TestingArmor/HazardArmorSmall.png",
+		"icon_url_large": "https://gameswithlove.github.io/TAWebResources/SteamInventory/Armors/ID_1_TestingArmor/HazardArmorBig.png",
 		"tradable": false,
 		"marketable": false
 	},
@@ -24,8 +24,8 @@
 		"description": "Shiny Red Hat",
 		"name_color":  "DC143C",
 		"background_color":  "DC143C",
-		"icon_url": "https://gameswithlove.github.io/TAWebResources/SteamInventory/Armors/RedHat/HeadRedHatBig.png",
-		"icon_url_large": "https://gameswithlove.github.io/TAWebResources/SteamInventory/Armors/RedHat/HeadRedHatBig.png",
+		"icon_url": "https://gameswithlove.github.io/TAWebResources/SteamInventory/Armors/ID_201_RedHat/HeadRedHatBig.png",
+		"icon_url_large": "https://gameswithlove.github.io/TAWebResources/SteamInventory/Armors/ID_201_RedHat/HeadRedHatBig.png",
 		"tradable": true,
 		"marketable": true
 	},
@@ -39,8 +39,8 @@
 		"description": "Genetic modifications that result in a bigger profile.",
 		"name_color":  "808080",
 		"background_color":  "808080",
-		"icon_url": "https://gameswithlove.github.io/TAWebResources/SteamInventory/Armors/BeltedBeachParty/BeltedBrachParty_Full.png",
-		"icon_url_large": "https://gameswithlove.github.io/TAWebResources/SteamInventory/Armors/BeltedBeachParty/BeltedBrachParty_Full.png",
+		"icon_url": "https://gameswithlove.github.io/TAWebResources/SteamInventory/Armors/ID_202_BeltedBeachParty/BeltedBrachParty_Full.png",
+		"icon_url_large": "https://gameswithlove.github.io/TAWebResources/SteamInventory/Armors/ID_202_BeltedBeachParty/BeltedBrachParty_Full.png",
 		"tradable": true,
 		"marketable": true
 	}
