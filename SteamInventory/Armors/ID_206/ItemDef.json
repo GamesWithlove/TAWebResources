@@ -6,13 +6,13 @@
 		"itemdefid": "206",
 		"type": "Hips",
 		"display_type": "",
-		"name": "Synthetic Hips Skirt",
+		"name": "Syntetic Hips",
 		"price": "1;VLV500",
-		"description": "Now with a fancy skirt.",
+		"description": "Synthetic replacement based on theoretical representation on a pure SWU.",
 		"name_color":  "DC143C",
 		"background_color":  "DC143C",
 		"icon_url": "https://gameswithlove.github.io/TAWebResources/SteamInventory/Armors/ID_206/Image.png",
-		"icon_url_large": "https://gameswithlove.github.io/TAWebResources/SteamInventory/Armors/ID_206/Image.png",
+		"icon_url_large": "https://gameswithlove.github.io/TAWebResources/SteamInventory/Armors/ID_206/Image/Image.png",
 		"tradable": true,
 		"marketable": true
 	}
