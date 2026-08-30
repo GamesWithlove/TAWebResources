@@ -11,8 +11,8 @@
 		"description": "Synthetic replacement based on theoretical representation on a pure SWU.",
 		"name_color":  "808080",
 		"background_color":  "808080",
-		"icon_url": "https://gameswithlove.github.io/TAWebResources/SteamInventory/Armors/ID_206/Image.png",
-		"icon_url_large": "https://gameswithlove.github.io/TAWebResources/SteamInventory/Armors/ID_206/Image/Image.png",
+		"icon_url": "https://gameswithlove.github.io/TAWebResources/SteamInventory/Armors/ID_206/Image206.png",
+		"icon_url_large": "https://gameswithlove.github.io/TAWebResources/SteamInventory/Armors/ID_206/Image206.png",
 		"tradable": true,
 		"marketable": true
 	}
