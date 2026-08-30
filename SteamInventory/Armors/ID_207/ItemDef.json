@@ -12,7 +12,7 @@
 		"name_color":  "808080",
 		"background_color":  "808080",
 		"icon_url": "https://gameswithlove.github.io/TAWebResources/SteamInventory/Armors/ID_207/Image.png",
-		"icon_url_large": "https://gameswithlove.github.io/TAWebResources/SteamInventory/Armors/ID_207/Image/Image.png",
+		"icon_url_large": "https://gameswithlove.github.io/TAWebResources/SteamInventory/Armors/ID_207/Image.png",
 		"tradable": true,
 		"marketable": true
 	}
